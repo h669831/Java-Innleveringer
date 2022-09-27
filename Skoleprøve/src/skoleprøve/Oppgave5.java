@@ -1,3 +1,4 @@
+package skoleprøve;
 import static javax.swing.JOptionPane.showInputDialog;
 
 public class Oppgave5 {

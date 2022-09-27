@@ -1,10 +1,17 @@
-
+package skoleprøve;
 public class Oppgave1b {
 
 	public static void main(String[] args) {
 
 		int a = 4;
 		
+		if ( a>= 5 && a <=8) {
+			System.out.print("Utenfor");
+		} else { 
+		}
+			System.out.print("Utenfor");
+			
+			
 		if (a >= 5) {
 			System.out.print(a + " er utenfor intervallet");
 		}

@@ -1,7 +1,9 @@
+package skoleprøve;
 
 public class oppgave1a {
 
 	public static void main(String[] args) {
+		
 		int a = 0;
 		
 		if (a > 0) {
